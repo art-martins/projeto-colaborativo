@@ -1,2 +1,6 @@
 Configurar ambiente
 Criar estrutura do projeto
+Iniciar com Git e  GitHub
+Revisar documentação
+
+
